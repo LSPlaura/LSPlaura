@@ -5,38 +5,9 @@
 > >aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - - -
 
-| **A** | **B** | **C** |
-|-------|-------|-------|
-| a     | b     | c     | 
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
+## Cosas :)
+| **Aaaaaaaaaaaaaaaaaaaaaaaa** | **Aaaaaaaaaaaaaahaaaaaaaaa** | **Aaaaaaaaaakaaaaaaaaaaaaa** |
+|------------------------------|------------------------------|------------------------------|
+| a                            | b                            | c                            |
 
-
-
-
-AA
-A
-A
-
-
-A
-A
-A
-
-A
-A
-A
-A
-A
 [![Imagen](imagenes/estrella.png)](#yo)
-
-[Enlace](#yo)
