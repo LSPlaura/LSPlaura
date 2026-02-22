@@ -3,7 +3,7 @@
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=header&text=&fontSize=0)
 
-# ¡Hola, soy Laura! 🌀
+<h1 id="hola-soy-laura">¡Hola, soy Laura! 🌀</h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Desarrolladora+en+formaci%C3%B3n;Apasionada+del+c%C3%B3digo+limpio;Siempre+aprendiendo+algo+nuevo;(%20supongo%20))
 
@@ -25,7 +25,7 @@
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white&labelColor=000000)
 ![VS Code](https://img.shields.io/badge/VS%20Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=000000&labelColor=ffffff)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=000000)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-ffffff?style=for-the-badge&logo=virtualbox&logoColor=000000&labelColor=ffffff)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-ffffff?style=for-the-badge&logo=virtualbox&logoColor=000000&labelColor=ffffff)^
 
 
 
@@ -47,6 +47,6 @@
 
 ---
 
-![Imagen](imagenes/estrella.png)
+[![Imagen](imagenes/estrella.png)](#hola-soy-laura)
 
 </div>
