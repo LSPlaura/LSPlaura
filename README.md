@@ -52,4 +52,4 @@
 
 </div>
 
-[![Imagen](imagenes/estrella.png)](#¡Hola, soy Laura!)
+![Imagen](imagenes/estrella.png)
