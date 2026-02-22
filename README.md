@@ -5,14 +5,11 @@
 
 # ¡Hola, soy Laura! 🌀
 
->
->#### "El código más bonito es el que se entiende a la primera."
->
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Desarrolladora+en+formaci%C3%B3n;Apasionada+del+c%C3%B3digo+limpio;Siempre+aprendiendo+algo+nuevo;(%20supongo%20))
->
+
+> [!IMPORTANT] 
+> Esto es un consejo útil.
 >#### "El código más bonito es el que se entiende a la primera."
->
 
 ---
 
