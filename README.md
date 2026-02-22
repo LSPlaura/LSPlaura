@@ -50,6 +50,6 @@
 
 ---
 
-</div>
-
 ![Imagen](imagenes/estrella.png)
+
+</div>
