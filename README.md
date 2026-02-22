@@ -1,3 +1,4 @@
+<div align="center">
 
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=header&text=&fontSize=0)
@@ -50,4 +51,5 @@
 ---
 
 </div>
+
 [![Imagen](imagenes/estrella.png)](#¡Hola, soy Laura!)
