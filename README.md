@@ -9,7 +9,7 @@
 
 > [!IMPORTANT] 
 > Esto es un consejo útil.
->#### *"El código más bonito es el que se entiende a la primera."
+>#### *"El código más bonito es el que se entiende a la primera."*
 
 ---
 
